@@ -1,0 +1,72 @@
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.dll.config
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.pdb
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.exe
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.exe.config
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.rsp
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\csi.exe
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\csi.rsp
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.AppContext.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.exe
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.exe.config
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.rsp
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\VBCSCompiler.exe
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.AssemblyReference.cache
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CoreCompileInputs.cache
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CopyComplete
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.dll
+C:\Users\diely\OneDrive\Documentos\9J\SERVICIOS WEB\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.dll.config
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\CalcularArea.pdb
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.exe
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.exe.config
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\csc.rsp
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\csi.exe
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\csi.rsp
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.AppContext.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Collections.Immutable.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.IO.FileSystem.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\System.Reflection.Metadata.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.exe
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.exe.config
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\vbc.rsp
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\VBCSCompiler.exe
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\roslyn\VBCSCompiler.exe.config
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.AssemblyReference.cache
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CoreCompileInputs.cache
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csproj.CopyComplete
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.dll
+C:\wamp64\www\SOAP\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb
